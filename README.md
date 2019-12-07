@@ -1,2 +1,2 @@
-# ML_Lab_Program_vtu_15csl76
-vtu Machine learning 7th sem program
+# ML_Lab_Program_vtu_ 15CSL76
+vtu Machine learning lab 7th sem program
